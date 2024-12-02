@@ -1,0 +1,19 @@
+name: main_env
+channels:
+  - conda-forge
+dependencies:
+  - beautifulsoup4
+  - ezc3d
+  - filterpy
+  - geckodriver
+  - ipywidgets
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - pillow
+  - plotly
+  - scipy
+  - selenium
+  - sympy
+  - webdriver-manager
